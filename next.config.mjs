@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  // output: 'export',
   images: {
     domains: ['placeholder.svg'],
     unoptimized: true, // changed from false to true
